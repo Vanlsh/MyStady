@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "00d95a4f-e011-4338-84a3-e587b1d0c6d4": {
+      "ProjectGuid": "00d95a4f-e011-4338-84a3-e587b1d0c6d4",
+      "DisplayName": "Lab3.2",
+      "ColorIndex": 0
+    },
+    "f840c25d-2ecb-4f3a-936a-4af0605b6beb": {
+      "ProjectGuid": "f840c25d-2ecb-4f3a-936a-4af0605b6beb",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
