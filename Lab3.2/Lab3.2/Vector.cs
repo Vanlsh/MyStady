@@ -14,7 +14,7 @@ namespace Lab3._2
         int r;
         int g;
         int b;
-
+        //sdsdsdsd
         public Color(int r, int g, int b)
         {
             this.r = r;
