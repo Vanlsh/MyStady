@@ -112,6 +112,11 @@ namespace IPCalculatorConsoleApp
 
             BitArray result = new BitArray(8);
 
+            if(value == 0)
+            {
+                return result;
+            }
+
             int i = 7;
             while(value != 1)
             {
@@ -124,12 +129,14 @@ namespace IPCalculatorConsoleApp
 
                 value /= 2;
             }
+            result[i] = true;
+
             return result;
         }
 
         public void SetIpAddres(int[] ipAdress)
         {
-            for (int i = 0; i < ipAdress.Length; i++)
+            for (int i = 0; i < 4; i++)
             {
                 ipAdressOctets[i] = IntToBitArray(ipAdress[i]);
             }

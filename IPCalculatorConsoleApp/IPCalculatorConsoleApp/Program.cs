@@ -60,6 +60,14 @@ namespace IPCalculatorConsoleApp
 
             return result;
         }
+
+
+        public static int BitArrayToInt(BitArray value)
+        {
+            var suka = BitArrayToString(value);
+
+            return Convert.ToInt32(suka, 2);
+        }
         static void Main()
         {
 
@@ -70,7 +78,7 @@ namespace IPCalculatorConsoleApp
             if(Binary)
             {
                 string ip = "11000000.10101000.00000001.00011011";
-                string mask = "11111111.11111111.11111111.00000000";
+                string mask = "11111111.11111111.11100000.00000000";
 
                 BitArray[] ipInput = StringToBitArray(ip);
                 BitArray[] maskInput = StringToBitArray(mask);
@@ -85,7 +93,7 @@ namespace IPCalculatorConsoleApp
             else
             {
                 string ip = "192.198.35.12";
-                string mask = "255.255.255.0";
+                string mask = "255.255.0.0";
 
                 int[] ipInput = StringToIntArray(ip);
                 int[] maskInput = StringToIntArray(mask);
@@ -105,30 +113,58 @@ namespace IPCalculatorConsoleApp
             BitArray[] HostMax = calculator.GetHostMax();
 
 
-
-            Console.Write("Network Adress:\t ");
-            foreach (BitArray i in NetworkAdress)
+            if (Binary)
             {
-                Console.Write(BitArrayToString(i) + ".");
+                Console.Write("Network Adress:\t ");
+                foreach (BitArray i in NetworkAdress)
+                {
+                    Console.Write(BitArrayToString(i) + ".");
+                }
+
+                Console.Write('\n');
+
+                Console.Write("HostMin:\t ");
+                foreach (BitArray i in HostMin)
+                {
+                    Console.Write(BitArrayToString(i) + ".");
+                }
+
+                Console.Write('\n');
+
+                Console.Write("HostMax:\t ");
+                foreach (BitArray i in HostMax)
+                {
+                    Console.Write(BitArrayToString(i) + ".");
+                }
+
+                Console.Write('\n');
             }
-
-            Console.Write('\n');
-
-            Console.Write("HostMin:\t ");
-            foreach (BitArray i in HostMin)
+            else 
             {
-                Console.Write(BitArrayToString(i) + ".");
+                Console.Write("Network Adress:\t ");
+                foreach (BitArray i in NetworkAdress)
+                {
+                    Console.Write(BitArrayToInt(i) + ".");
+                }
+
+                Console.Write('\n');
+
+                Console.Write("HostMin:\t ");
+                foreach (BitArray i in HostMin)
+                {
+                    Console.Write(BitArrayToInt(i) + ".");
+                }
+
+                Console.Write('\n');
+
+                Console.Write("HostMax:\t ");
+                foreach (BitArray i in HostMax)
+                {
+                    Console.Write(BitArrayToInt(i) + ".");
+                }
+
+                Console.Write('\n');
             }
-
-            Console.Write('\n');
-
-            Console.Write("HostMax:\t ");
-            foreach (BitArray i in HostMax)
-            {
-                Console.Write(BitArrayToString(i) + ".");
-            }
-
-            Console.Write('\n');
           
 
         }

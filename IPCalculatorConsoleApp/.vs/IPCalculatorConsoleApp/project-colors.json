@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7de10697-96ef-4288-bda9-9decba726e5b": {
+      "ProjectGuid": "7de10697-96ef-4288-bda9-9decba726e5b",
+      "DisplayName": "IPCalculatorConsoleApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
