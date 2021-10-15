@@ -1,0 +1,16 @@
+C:\Users\Vanish\Documents\GitHub\MyStady\IPCalculatorConsoleApp\IPCalculatorConsoleApp\bin\Debug\net6.0\IPCalculatorConsoleApp.exe
+C:\Users\Vanish\Documents\GitHub\MyStady\IPCalculatorConsoleApp\IPCalculatorConsoleApp\bin\Debug\net6.0\IPCalculatorConsoleApp.deps.json
+C:\Users\Vanish\Documents\GitHub\MyStady\IPCalculatorConsoleApp\IPCalculatorConsoleApp\bin\Debug\net6.0\IPCalculatorConsoleApp.runtimeconfig.json
+C:\Users\Vanish\Documents\GitHub\MyStady\IPCalculatorConsoleApp\IPCalculatorConsoleApp\bin\Debug\net6.0\IPCalculatorConsoleApp.dll
+C:\Users\Vanish\Documents\GitHub\MyStady\IPCalculatorConsoleApp\IPCalculatorConsoleApp\bin\Debug\net6.0\ref\IPCalculatorConsoleApp.dll
+C:\Users\Vanish\Documents\GitHub\MyStady\IPCalculatorConsoleApp\IPCalculatorConsoleApp\bin\Debug\net6.0\IPCalculatorConsoleApp.pdb
+C:\Users\Vanish\Documents\GitHub\MyStady\IPCalculatorConsoleApp\IPCalculatorConsoleApp\obj\Debug\net6.0\IPCalculatorConsoleApp.GlobalUsings.g.cs
+C:\Users\Vanish\Documents\GitHub\MyStady\IPCalculatorConsoleApp\IPCalculatorConsoleApp\obj\Debug\net6.0\IPCalculatorConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Vanish\Documents\GitHub\MyStady\IPCalculatorConsoleApp\IPCalculatorConsoleApp\obj\Debug\net6.0\IPCalculatorConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanish\Documents\GitHub\MyStady\IPCalculatorConsoleApp\IPCalculatorConsoleApp\obj\Debug\net6.0\IPCalculatorConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Vanish\Documents\GitHub\MyStady\IPCalculatorConsoleApp\IPCalculatorConsoleApp\obj\Debug\net6.0\IPCalculatorConsoleApp.AssemblyInfo.cs
+C:\Users\Vanish\Documents\GitHub\MyStady\IPCalculatorConsoleApp\IPCalculatorConsoleApp\obj\Debug\net6.0\IPCalculatorConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Vanish\Documents\GitHub\MyStady\IPCalculatorConsoleApp\IPCalculatorConsoleApp\obj\Debug\net6.0\IPCalculatorConsoleApp.dll
+C:\Users\Vanish\Documents\GitHub\MyStady\IPCalculatorConsoleApp\IPCalculatorConsoleApp\obj\Debug\net6.0\ref\IPCalculatorConsoleApp.dll
+C:\Users\Vanish\Documents\GitHub\MyStady\IPCalculatorConsoleApp\IPCalculatorConsoleApp\obj\Debug\net6.0\IPCalculatorConsoleApp.pdb
+C:\Users\Vanish\Documents\GitHub\MyStady\IPCalculatorConsoleApp\IPCalculatorConsoleApp\obj\Debug\net6.0\IPCalculatorConsoleApp.genruntimeconfig.cache
