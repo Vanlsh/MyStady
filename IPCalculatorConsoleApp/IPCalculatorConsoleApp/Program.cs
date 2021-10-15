@@ -2,7 +2,7 @@
 
 namespace IPCalculatorConsoleApp
 {
-    class IPCalculatorDemo
+    class IPCalculatorConsoleInterfasce
     {
         public static int[] StringToIntArray(string value)
         {
@@ -100,7 +100,7 @@ namespace IPCalculatorConsoleApp
 
 
                 calculator.SetIpAddres(ipInput);
-                calculator.SetNetworkMask(maskInput);
+                calculator.SetNetworkMask(maskInput); 
 
                 Console.WriteLine("IP:\t\t " + ip);
                 Console.WriteLine("Mask:\t\t " + mask);
