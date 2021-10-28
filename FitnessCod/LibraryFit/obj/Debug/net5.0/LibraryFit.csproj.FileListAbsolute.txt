@@ -1,0 +1,12 @@
+C:\Users\Иван\source\repos\FitnessCod\LibraryFit\bin\Debug\net5.0\LibraryFit.deps.json
+C:\Users\Иван\source\repos\FitnessCod\LibraryFit\bin\Debug\net5.0\LibraryFit.dll
+C:\Users\Иван\source\repos\FitnessCod\LibraryFit\bin\Debug\net5.0\ref\LibraryFit.dll
+C:\Users\Иван\source\repos\FitnessCod\LibraryFit\bin\Debug\net5.0\LibraryFit.pdb
+C:\Users\Иван\source\repos\FitnessCod\LibraryFit\obj\Debug\net5.0\LibraryFit.csproj.AssemblyReference.cache
+C:\Users\Иван\source\repos\FitnessCod\LibraryFit\obj\Debug\net5.0\LibraryFit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\source\repos\FitnessCod\LibraryFit\obj\Debug\net5.0\LibraryFit.AssemblyInfoInputs.cache
+C:\Users\Иван\source\repos\FitnessCod\LibraryFit\obj\Debug\net5.0\LibraryFit.AssemblyInfo.cs
+C:\Users\Иван\source\repos\FitnessCod\LibraryFit\obj\Debug\net5.0\LibraryFit.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\FitnessCod\LibraryFit\obj\Debug\net5.0\LibraryFit.dll
+C:\Users\Иван\source\repos\FitnessCod\LibraryFit\obj\Debug\net5.0\ref\LibraryFit.dll
+C:\Users\Иван\source\repos\FitnessCod\LibraryFit\obj\Debug\net5.0\LibraryFit.pdb

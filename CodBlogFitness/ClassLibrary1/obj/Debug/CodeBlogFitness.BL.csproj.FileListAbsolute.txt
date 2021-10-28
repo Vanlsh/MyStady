@@ -1,0 +1,5 @@
+c:\users\иван\documents\visual studio 2015\Projects\CodBlogFitness\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\иван\documents\visual studio 2015\Projects\CodBlogFitness\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\иван\documents\visual studio 2015\Projects\CodBlogFitness\ClassLibrary1\obj\Debug\CodeBlogFitness.BL.csprojResolveAssemblyReference.cache
+c:\users\иван\documents\visual studio 2015\Projects\CodBlogFitness\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\иван\documents\visual studio 2015\Projects\CodBlogFitness\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

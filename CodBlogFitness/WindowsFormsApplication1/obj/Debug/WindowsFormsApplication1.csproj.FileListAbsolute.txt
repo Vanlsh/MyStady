@@ -1,0 +1,14 @@
+c:\users\иван\documents\visual studio 2015\Projects\CodBlogFitness\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\иван\documents\visual studio 2015\Projects\CodBlogFitness\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\иван\documents\visual studio 2015\Projects\CodBlogFitness\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\иван\documents\visual studio 2015\Projects\CodBlogFitness\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\иван\documents\visual studio 2015\Projects\CodBlogFitness\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\иван\documents\visual studio 2015\Projects\CodBlogFitness\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\иван\documents\visual studio 2015\Projects\CodBlogFitness\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\иван\documents\visual studio 2015\Projects\CodBlogFitness\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+c:\users\иван\documents\visual studio 2015\Projects\CodBlogFitness\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+c:\users\иван\documents\visual studio 2015\Projects\CodBlogFitness\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+c:\users\иван\documents\visual studio 2015\Projects\CodBlogFitness\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\иван\documents\visual studio 2015\Projects\CodBlogFitness\WindowsFormsApplication1\bin\Debug\af\WindowsFormsApplication1.resources.dll
+c:\users\иван\documents\visual studio 2015\Projects\CodBlogFitness\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.af.resources
+c:\users\иван\documents\visual studio 2015\Projects\CodBlogFitness\WindowsFormsApplication1\obj\Debug\af\WindowsFormsApplication1.resources.dll
