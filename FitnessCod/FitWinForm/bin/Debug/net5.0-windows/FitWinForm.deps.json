@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FitWinForm/1.0.0": {
+        "dependencies": {
+          "LibraryFit": "1.0.0"
+        },
+        "runtime": {
+          "FitWinForm.dll": {}
+        }
+      },
+      "LibraryFit/1.0.0": {
+        "runtime": {
+          "LibraryFit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FitWinForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibraryFit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
