@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e187f2da-a4c0-4117-8131-802e457a6543": {
+      "ProjectGuid": "e187f2da-a4c0-4117-8131-802e457a6543",
+      "DisplayName": "FitWinForm",
+      "ColorIndex": 0
+    },
+    "58b35097-f9d5-483b-9dfd-d4d5ed18f505": {
+      "ProjectGuid": "58b35097-f9d5-483b-9dfd-d4d5ed18f505",
+      "DisplayName": "LibraryFit",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

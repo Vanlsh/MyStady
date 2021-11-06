@@ -10,6 +10,11 @@
       "ProjectGuid": "f840c25d-2ecb-4f3a-936a-4af0605b6beb",
       "DisplayName": "ConsoleApp1",
       "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
   "NextColorIndex": 2

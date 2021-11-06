@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7d7f58f4-be57-46af-888f-e1dcdca7727f": {
+      "ProjectGuid": "7d7f58f4-be57-46af-888f-e1dcdca7727f",
+      "DisplayName": "LibraryIpApp",
+      "ColorIndex": 0
+    },
+    "884ac47b-221c-4b19-bd11-fd330e514f2b": {
+      "ProjectGuid": "884ac47b-221c-4b19-bd11-fd330e514f2b",
+      "DisplayName": "WinFormsIPCalculator",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

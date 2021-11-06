@@ -23,7 +23,7 @@ namespace IPCalculatorConsoleApp
             BitArray[] result =new BitArray[4];
             for (int i = 0; i < 4; i++)
             {
-                result[i] = new BitArray(8);
+                result[i] = new BitArray(8); 
             }
 
             string[] values = value.Split('.');
@@ -71,6 +71,12 @@ namespace IPCalculatorConsoleApp
         static void Main()
         {
 
+            {
+                string r = Convert.ToString(123, 2);
+                Console.WriteLine(r);
+                Console.ReadLine();
+
+            }
             IPCalculator calculator = new IPCalculator();
 
             bool Binary = false;

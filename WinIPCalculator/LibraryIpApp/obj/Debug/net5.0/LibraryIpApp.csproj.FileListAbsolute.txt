@@ -1,0 +1,12 @@
+C:\Users\Vanish\Documents\GitHub\MyStady\WinIPCalculator\LibraryIpApp\bin\Debug\net5.0\LibraryIpApp.deps.json
+C:\Users\Vanish\Documents\GitHub\MyStady\WinIPCalculator\LibraryIpApp\bin\Debug\net5.0\LibraryIpApp.dll
+C:\Users\Vanish\Documents\GitHub\MyStady\WinIPCalculator\LibraryIpApp\bin\Debug\net5.0\ref\LibraryIpApp.dll
+C:\Users\Vanish\Documents\GitHub\MyStady\WinIPCalculator\LibraryIpApp\bin\Debug\net5.0\LibraryIpApp.pdb
+C:\Users\Vanish\Documents\GitHub\MyStady\WinIPCalculator\LibraryIpApp\obj\Debug\net5.0\LibraryIpApp.csproj.AssemblyReference.cache
+C:\Users\Vanish\Documents\GitHub\MyStady\WinIPCalculator\LibraryIpApp\obj\Debug\net5.0\LibraryIpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanish\Documents\GitHub\MyStady\WinIPCalculator\LibraryIpApp\obj\Debug\net5.0\LibraryIpApp.AssemblyInfoInputs.cache
+C:\Users\Vanish\Documents\GitHub\MyStady\WinIPCalculator\LibraryIpApp\obj\Debug\net5.0\LibraryIpApp.AssemblyInfo.cs
+C:\Users\Vanish\Documents\GitHub\MyStady\WinIPCalculator\LibraryIpApp\obj\Debug\net5.0\LibraryIpApp.csproj.CoreCompileInputs.cache
+C:\Users\Vanish\Documents\GitHub\MyStady\WinIPCalculator\LibraryIpApp\obj\Debug\net5.0\LibraryIpApp.dll
+C:\Users\Vanish\Documents\GitHub\MyStady\WinIPCalculator\LibraryIpApp\obj\Debug\net5.0\ref\LibraryIpApp.dll
+C:\Users\Vanish\Documents\GitHub\MyStady\WinIPCalculator\LibraryIpApp\obj\Debug\net5.0\LibraryIpApp.pdb
